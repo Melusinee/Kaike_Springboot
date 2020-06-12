@@ -5,7 +5,7 @@
 
 # 后端功能：
 * 侧边菜单栏
-    ![image](https://github.com/Melusinee/Kaike_Springboot/tree/master/image-folder/侧边栏.png)
+    ![image](https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E4%BE%A7%E8%BE%B9%E6%A0%8F.PNG)
 * 讲师管理
 * 课程管理
   * 创建课程
