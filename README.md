@@ -5,16 +5,16 @@
 
 # 后端功能：
 ## 侧边菜单栏 
-      效果图：https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E4%BE%A7%E8%BE%B9%E6%A0%8F.PNG"
+   效果图：https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E4%BE%A7%E8%BE%B9%E6%A0%8F.PNG"
 ## 讲师管理：
-    * 讲师列表：列出讲师，且根据条件查询相应讲师 <br>
+   * 讲师列表：列出讲师，且根据条件查询相应讲师 <br>
       效果图：https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E8%AE%B2%E5%B8%88%E5%88%97%E8%A1%A8.PNG
-    * 添加讲师: 在表单内填写讲师名称和信息等，提交后即可加入数据库内<br>
+   * 添加讲师: 在表单内填写讲师名称和信息等，提交后即可加入数据库内<br>
       效果图：https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E6%B7%BB%E5%8A%A0%E8%AE%B2%E5%B8%88.PNG
 ## 课程分类管理：
-    * 课程树状图：可以根据当前数据库内的课程结构画出对应的树状图，并且提供查询功能，输入关键字即可查询对应的课程<br>
-      效果图： https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E8%AF%BE%E7%A8%8B%E5%88%86%E7%B1%BB%E6%A0%91%E7%8A%B6%E5%9B%BE.PNG
-    * 添加课程分类：可以上传符合格式的excel文件，可以自动生成树状图并在课程树状图页面进行更新<br>
+   * 课程树状图：可以根据当前数据库内的课程结构画出对应的树状图，并且提供查询功能，输入关键字即可查询对应的课程<br>
+     效果图： https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E8%AF%BE%E7%A8%8B%E5%88%86%E7%B1%BB%E6%A0%91%E7%8A%B6%E5%9B%BE.PNG
+   * 添加课程分类：可以上传符合格式的excel文件，可以自动生成树状图并在课程树状图页面进行更新<br>
       效果图： https://github.com/Melusinee/Kaike_Springboot/blob/master/image-folder/%E8%AF%BE%E7%A8%8B%E6%B7%BB%E5%8A%A0.PNG
         
 ## 课程管理
